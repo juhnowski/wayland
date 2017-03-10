@@ -1,0 +1,97 @@
+[save-as]
+0=/etc/hosts
+
+[name]
+0=
+
+[ignoredirs]
+0=
+
+[start]
+0=.
+
+[mc.shared.search]
+0=fb
+1=x11
+2=linux-fb
+3=install
+4=strerror
+5=VK_ERROR_FRAGMENTED_POOL
+6=VK_SUCCESS
+
+[input-def]
+0=*
+
+[inpmc.fm.mkdir]
+0=disk
+1=1
+2=backgrounds
+3=1_proto
+4=qqq
+
+[cmdline]
+0=cd /etc
+1=sudo build > log
+2=make > log
+3=meson ..
+4=ninja test
+5=./configure 
+6=make
+7=git status
+8=cmake .
+9=whereis bloom
+10=locate bloom
+11=make clean
+12=cd /tmp
+13=git ini
+14=sudo mkdir qqq
+15=sudo chown qqq usrd
+16=
+
+[Dir Hist New Right Panel]
+0=/home/usrd/graphene
+1=/home/usrd/Vulkan
+2=/home/usrd/gtk+
+3=/home/usrd/gtk+/gdk
+4=/media/cdrom
+5=/mnt
+6=/
+7=/media
+8=/tmp/.X11-unix
+9=/tmp/mc-usrd
+10=/tmp/.ICE-unix
+11=/tmp
+12=/home/usrd
+13=/home
+14=/home/qqq
+
+[Dir Hist New Left Panel]
+0=/dev
+1=/etc/gtk-2.0
+2=/etc
+3=/home/usrd/graphene/_build
+4=/home/usrd/graphene
+5=/home/usrd/Vulkan/CMakeFiles
+6=/home/usrd/gtk+/gdk
+7=/home/usrd/Vulkan/base
+8=/home/usrd/Vulkan/bin
+9=/home/usrd/gtk+
+10=/home/usrd/xserver
+11=/root
+12=/home/usrd/weston/clients
+13=/home/usrd/weston/compositor
+14=/home/usrd/weston/data
+15=/home/usrd/weston/libweston
+16=/home/usrd/weston
+17=/
+18=/home
+19=/home/usrd/Vulkan/android
+20=/home/usrd/Vulkan
+21=/home/usrd/backgrounds
+22=/home/usrd
+
+[input2]
+0=/home/usrd/
+1=/home/usrd/1/
+2=/home/qqq
+3=/home/qqq/
